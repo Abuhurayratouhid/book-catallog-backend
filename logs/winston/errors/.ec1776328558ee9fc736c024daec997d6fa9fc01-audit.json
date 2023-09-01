@@ -19,6 +19,11 @@
             "date": 1693605651210,
             "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\errors\\phu-2023-02-09-04-error.log",
             "hash": "1d7ad52437e9c965b1f492ed37727be33e0e716c669c2b812fbc0ad5b3ea891a"
+        },
+        {
+            "date": 1693610519514,
+            "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\errors\\phu-2023-02-09-05-error.log",
+            "hash": "60c120ac0ee7770e1e106adfede4bb517d1d25307d0244da301d53099b677d1c"
         }
     ],
     "hashType": "sha256"
