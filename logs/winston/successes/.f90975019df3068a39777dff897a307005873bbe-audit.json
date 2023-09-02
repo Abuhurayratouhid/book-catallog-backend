@@ -34,6 +34,21 @@
             "date": 1693616427223,
             "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\successes\\phu-2023-02-09-07-success.log",
             "hash": "82dafd49582dd0d3616c1f971336a026b733b9493c1ec2bf33e9df493f3f8137"
+        },
+        {
+            "date": 1693649741852,
+            "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\successes\\phu-2023-02-09-16-success.log",
+            "hash": "c8f9e0b0b9110d1128ec6edfc8da9f1a261d20ba2e5abeee3bc5b075a3f420af"
+        },
+        {
+            "date": 1693652494391,
+            "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\successes\\phu-2023-02-09-17-success.log",
+            "hash": "20543d1fa580bd84cec034b7cb4455e251ef67ea5a86ec1573206fc43eb21012"
+        },
+        {
+            "date": 1693670677695,
+            "name": "C:\\typescript\\webdotTow\\Assingment-8\\Book-Catallog-Backend\\logs\\winston\\successes\\phu-2023-02-09-22-success.log",
+            "hash": "800cd8a1340034901b340377247e5b58bf89c6c8e7a051158da3f4f5bfbdfa47"
         }
     ],
     "hashType": "sha256"
