@@ -13,5 +13,7 @@ router.post(
   validateRequest(CategoryValidation.createCategoryZodSchema),
   CategoryController.createCategory
 );
+router.get('/', CategoryController.getAllCategories);
+router.get('/:id', CategoryController.getSingleCategory);
 
 export const CategoryRoutes = router;
